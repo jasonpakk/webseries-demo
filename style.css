@@ -1,6 +1,23 @@
+* {
+  color: green;
+}
+
+p {
+  color: red;
+}
+
+.my-class {
+  color: blue;
+}
+
+#unique-id {
+  color: rgba(25, 25, 250, 0.2);
+}
 
 
-/*
+
+
+
 #outer-square {
   width: 200px;
   height: 200px;
@@ -17,15 +34,21 @@
 }
 
 #first-square {
+  margin-left: 10px;
 }
-*/
 
 
-/*
+
+
+
 #flex-demo {
   margin: 10rem 0;
   width: 100vw;
 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-end;
 }
 
 .box {
@@ -36,27 +59,30 @@
   padding: 10px;
   color: white;
 }
-*/
 
-/*
+
 #unique-box {
   width: 80px;
   height: 80px;
   background-color: green;
 }
-*/
 
 
 
-/*
+
+
 #pseudo-demo {
   margin: 10rem 0;
   font-size: 30px;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-#pseudo-demo p{
-  color: red;
+#pseudo-demo p:nth-child(5) {
+  color: orange;
+}
+
+p #pseudo-demo {
+  color: blue;
 }
 
 button {
@@ -66,27 +92,24 @@ button {
 }
 
 button:hover{
-
+  background-color: red;
+  transform: scale(2);
 }
-*/
 
 
 
-/*
+
+
 @media (max-width: 400px) {
-
   body {
     background-color: blue;
-  } 
-
-  #unique-id {
-    color: red;
   }
 }
-*/
 
 
-/*
+
+
+
 .chesspiece img {
   width: 20em;
   position: relative;
@@ -120,4 +143,4 @@ button:hover{
     left: -500px;
   }
 }
-*/
+

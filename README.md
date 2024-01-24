@@ -1,3 +1,3 @@
 # webseries-demo
 
-hello!
+demo of css for web dev miniseries!
