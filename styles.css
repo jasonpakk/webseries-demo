@@ -1,0 +1,123 @@
+
+
+/*
+#outer-square {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+}
+
+.inner-square {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  width: fit-content;
+  background-color: red;
+  border: 5px yellow solid;
+}
+
+#first-square {
+}
+*/
+
+
+/*
+#flex-demo {
+  margin: 10rem 0;
+  width: 100vw;
+
+}
+
+.box {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  border: 5px yellow solid;
+  padding: 10px;
+  color: white;
+}
+*/
+
+/*
+#unique-box {
+  width: 80px;
+  height: 80px;
+  background-color: green;
+}
+*/
+
+
+
+/*
+#pseudo-demo {
+  margin: 10rem 0;
+  font-size: 30px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#pseudo-demo p{
+  color: red;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  background-color: sandybrown;
+}
+
+button:hover{
+
+}
+*/
+
+
+
+/*
+@media (max-width: 400px) {
+
+  body {
+    background-color: blue;
+  } 
+
+  #unique-id {
+    color: red;
+  }
+}
+*/
+
+
+/*
+.chesspiece img {
+  width: 20em;
+  position: relative;
+  animation: move_piece 10s infinite;
+}
+
+@keyframes move_piece {
+  0% {
+    left: -500px;
+  }
+  16% {
+    left: 0px;
+    transform: rotate(15deg);
+  }
+  33% {
+    left: 0px;
+    transform: rotate(0deg);
+  }
+  50% {
+    left: 500px;
+    transform: rotate(0deg);
+  }
+  66% {
+    left: 0px;
+    transform: rotate(-15deg);
+  }
+  83% {
+    left: 0px;
+  }
+  100% {
+    left: -500px;
+  }
+}
+*/
